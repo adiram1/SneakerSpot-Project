@@ -3,3 +3,6 @@ A comprehensive online store for sports shoes, SneakerSpot offers a selection of
 
 Demo video:
 https://youtu.be/iqVNLQ95Fd8
+
+Demo of the Website:
+http://sneakerspot.kesug.com/
